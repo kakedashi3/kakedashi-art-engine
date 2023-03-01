@@ -41,9 +41,11 @@ const layerConfigurations = [
 ];
 ```
 
+生成コマンドを実行。
+
 ```sh
 node index.js
 ```
 
-buildフォルダで生成結果を確認。
+buildフォルダで結果を確認。
 
