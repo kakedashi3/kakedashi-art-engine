@@ -1,4 +1,4 @@
-# Welcome to Kakedashi-art-engine 👄
+# Welcome to Kakedashi-art-engine ⚡
 
 
 ```sh
