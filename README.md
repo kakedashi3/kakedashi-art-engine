@@ -54,5 +54,5 @@ node index.js
 
 buildフォルダで結果を確認。
 
-IPFSへのアップロードやコントラクトのデプロイは以下を参照してください。
+IPFSへのアップロードやコントラクトのデプロイはURLを参照してください。
 https://nft-media.net/art/note-yuki/5430/
