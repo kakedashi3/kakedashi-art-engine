@@ -6,13 +6,19 @@
 git clone https://github.com/kakedashi3/kakedashi-art-engine.git
 ```
 
-Go to the root of your folder and run this command if you have yarn installed.
+プロジェクトフォルダに移動。
+
+```sh
+cd kakedashi-art-engine
+```
+
+依存関係をインストール。
 
 ```sh
 yarn
 ```
 
-
+layerフォルダで自分なりにアレンジ。
 
 ```js
 const layerConfigurations = [
@@ -29,4 +35,9 @@ const layerConfigurations = [
 ];
 ```
 
+```sh
+node index.js
+```
+
+buildフォルダで生成結果を確認。
 
