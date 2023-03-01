@@ -1,5 +1,6 @@
 # Welcome to kakedashi-art-engine ⚡
 
+ハッシュリップさんが一向に更新しないのでAIに叩き直してもらいました。
 
 ```sh
 git clone https://github.com/kakedashi3/kakedashi-art-engine.git
