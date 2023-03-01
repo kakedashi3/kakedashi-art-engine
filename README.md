@@ -18,6 +18,12 @@ cd kakedashi-art-engine
 yarn
 ```
 
+
+VScodeを起動。（好みのeditorでよい）
+```sh
+code .
+```
+
 layerフォルダで自分なりにアレンジ。
 
 ```js
